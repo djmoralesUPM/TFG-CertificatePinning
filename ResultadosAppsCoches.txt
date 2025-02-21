@@ -1,0 +1,444 @@
+
+------------------------------------
+
+
+Apk 1: Resultados de com.dacia.mydacia.one.fr-444004
+
+Nombre de la aplicación: My Dacia
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration implementado correctamente
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     api-wired-prod-1-euw1.wrd-aws.com
+        
+     apis.renault.com
+        
+SHA encontrados en NSC: 
+     SHA-256: dPm4Xx7DPY34VXYQiEKUH2d4hTi09+idUhEk4v4wlJI=
+            
+     SHA-256: JSMzqOOrtyOT1kmau6zKhgT676hGgczD5VMdRMyJZFA=
+            
+     SHA-256: NqvDJlas/GRcYbcWE8S/IceH9cq77kg0jVhZeAPXq81=
+            
+     SHA-256: ++MBgDH5WGvL9Bcn5Be30cRcL0f5O+NyoXuWtQdX1aI=
+            
+     SHA-256: KwccWaCgrnaw6tsrrSO61FgLacNgG2MMLq8GE6+oP5I=
+            
+     SHA-256: x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=
+            
+     SHA-256: SSBQnpJB4S4xChF/ht4nYT6NSI2ORtzmPESVfewnepc=
+            
+     SHA-256: kWT+KOf4o3rMAkd02Zp+EfHZPbNeX/dtZmutccDFyys=
+            
+------------------------------------
+
+
+Apk 2: Resultados de com.ford.fordpasseu-23038
+
+Nombre de la aplicación: FordPass
+------------------------------------
+Metodo 1: TrustManager
+Certificados encontrados: 
+     dev_paak_enc_rsa.pem
+     prod_paak_enc_rsa.pem
+     prod_issuing_ca.pem
+     dev_calibration_ca.pem
+     prod_calibration_ca.pem
+     dev_issuing_ca.pem
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration implementado correctamente
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     sso.ci.ford.com
+        
+     api.autonomic.ai
+        
+     accountmanager.ford.com
+        
+     *.apps.edcpd01.cf.ford.com
+        
+SHA encontrados en NSC: 
+     SHA-256: cGuxAXyFXFkWm61cF4HPWX8S0srS9j0aSqN0k4AP+4A=
+            
+     SHA-256: hETpgVvaLC0bvcGG3t0cuqiHvr4XyP2MTwCiqhgRWwU=
+            
+     SHA-256: C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=
+            
+     SHA-256: diGVwiVYbubAI3RW4hB9xU8e/CH2GnkuvVFZE8zmgzI=
+            
+     SHA-256: Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys=
+            
+     SHA-256: E4Ng5U/SrFkOymCbR6vjrXN7ooQPlEvNQyTmBgyad7A=
+            
+     SHA-256: N0vUDSztJguEso9SjyIkvigVx/iLIFgLbXdbUlKPemI=
+            
+------------------------------------
+
+
+Apk 3: Resultados de com.psa.mym.myds-2204
+
+Nombre de la aplicación: MyDS
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://clients3.google.com/generate_204
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 4: Resultados de de.volkswagen.carnet.eu.eremote-2012310749
+
+Nombre de la aplicación: We Connect
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration implementado correctamente
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     identity.vwgroup.io
+        
+     apps.emea.vwapps.io
+        
+     consent.vwgroup.io
+        
+     enrsvc-app.vwg-connect.com
+        
+     mbboauth-1d.prd.ece.vwg-connect.com
+        
+     msg.volkswagen.de
+        
+     mal-1a.prd.ece.vwg-connect.com
+        
+     fal-3a.prd.eu.dp.vwg-connect.com
+        
+     mal-3a.prd.eu.dp.vwg-connect.com
+        
+SHA encontrados en NSC: 
+     SHA-256: ++MBgDH5WGvL9Bcn5Be30cRcL0f5O+NyoXuWtQdX1aI=
+            
+     SHA-256: f0KW/FtqTjs108NpYj42SrGvOB2PpxIVM8nWxjPqJGE=
+            
+     SHA-256: NqvDJlas/GRcYbcWE8S/IceH9cq77kg0jVhZeAPXq8k=
+            
+     SHA-256: 9+ze1cZgR9KO1kZrVDxA4HQ6voHRCSVNz4RdTCx4U8U=
+            
+     SHA-256: KwccWaCgrnaw6tsrrSO61FgLacNgG2MMLq8GE6+oP5I=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME=
+            
+------------------------------------
+
+
+Apk 5: Resultados de de.myaudi.mobile.assistant-800238754
+
+Nombre de la aplicación: myAudi
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration implementado correctamente
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     audi.de
+        
+     audi.com
+        
+     cache-dealersearch.audi.com
+        
+     pre-cache-dealersearch.audi.com
+        
+     mediaservice.audi.com
+        
+     pre-mediaservice.audi.com
+        
+     apps.audi.com
+        
+     pre-apps.audi.com
+        
+     ecom.audi
+        
+     vwg-connect.com
+        
+     smart-charging-connect.com
+        
+     audifs.com
+        
+     audiusa.com
+        
+     graphql.connectfleet.io
+        
+     graphql.approval.connectfleet.io
+        
+     vwgroup.io
+        
+     vwapps.io
+        
+     acdc.swarm.audi
+        
+     cariad.digital
+        
+     cariad.cloud
+        
+     vwfs.io
+        
+     digitalmarketplace.audi
+        
+SHA encontrados en NSC: 
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=
+            
+     SHA-256: r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+            
+     SHA-256: r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=
+            
+     SHA-256: du6FkDdMcVQ3u8prumAo6t3i3G27uMP2EOhR8R0at/U=
+            
+     SHA-256: C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=
+            
+     SHA-256: Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys=
+            
+     SHA-256: du6FkDdMcVQ3u8prumAo6t3i3G27uMP2EOhR8R0at/U=
+            
+     SHA-256: r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+            
+     SHA-256: Z5/2RtWXrCvvJsLXdZ4t9HEaVg21e9AhczULn9tmg4M=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: ++MBgDH5WGvL9Bcn5Be30cRcL0f5O+NyoXuWtQdX1aI=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=
+            
+     SHA-256: r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+     SHA-256: i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=
+            
+     SHA-256: r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+            
+     SHA-256: ++MBgDH5WGvL9Bcn5Be30cRcL0f5O+NyoXuWtQdX1aI=
+            
+     SHA-256: SkntvS+PgjC9VZKzE1c/4cFypF+pgBHMHt27Nq3j/OU=
+            
+------------------------------------
+
+
+Apk 6: Resultados de com.psa.mym.mycitroen-2204
+
+Nombre de la aplicación: My Citroën
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://clients3.google.com/generate_204
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 7: Resultados de com.daimler.ris.mercedesme.ece.android-1423
+
+Nombre de la aplicación: Mercedes me
+------------------------------------
+Metodo 1: TrustManager
+Certificados encontrados: 
+     ca_int.pem
+     rs_daimler_int.pem
+     ca_ci.pem
+     rs_daimler_mock.crt
+     ca_stable.pem
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     auth-stable.westeurope.cloudapp.azure.com
+        
+     auth-ci.westeurope.cloudapp.azure.com
+        
+     auth-int.westeurope.cloudapp.azure.com
+        
+     auth-stable.risingstars-int.daimler.com
+        
+     auth-ci.risingstars-int.daimler.com
+        
+     auth-int.risingstars-int.daimler.com
+        
+     auth-mock.risingstars-mock.daimler.com
+        
+     bff-stable.westeurope.cloudapp.azure.com
+        
+     bff-ci.westeurope.cloudapp.azure.com
+        
+     bff-int.westeurope.cloudapp.azure.com
+        
+     bff-stable.risingstars-int.daimler.com
+        
+     bff-ci.risingstars-int.daimler.com
+        
+     bff-int.risingstars-int.daimler.com
+        
+     bff-mock.risingstars-mock.daimler.com
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 8: Resultados de se.volvo.vcc_21207
+
+Nombre de la aplicación: Volvo On Call
+------------------------------------
+Metodo 1: TrustManager
+Certificados encontrados: 
+     hse_test.crt
+     icl_bakery_develop_ca.crt
+     hse_production.crt
+     dst_root_ca_x3.crt
+     hse_qa.crt
+     hse_production_cn.crt
+     car_sharing_client_cert_qa.crt
+     hse_qa_cn.crt
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 9: Resultados de com.hyundai.bluelink.eu.ux20-10102
+
+Nombre de la aplicación: Bluelink
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 10: Resultados de com.psa.mym.mypeugeot-2204
+
+Nombre de la aplicación: MyPeugeot
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://clients3.google.com/generate_204
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 11: Resultados de de.bmw.connected.mobile20.row-19895
+
+Nombre de la aplicación: My BMW
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC

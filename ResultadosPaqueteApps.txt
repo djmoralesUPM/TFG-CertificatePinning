@@ -1,0 +1,4533 @@
+
+------------------------------------
+
+
+Apk 1: Resultados de 287F9975372651FB1C645BBFFA0B77E6EA7104E46ED4893F95C25C9B42F66D98
+
+Nombre de la aplicación: Switch Jewels Match 3: Adventure
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 2: Resultados de 90E34792CF3C3A48409A8BD6F87461822852F3546B6E3A88B28A44FC9DE861CB
+
+Nombre de la aplicación: CRM
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 3: Resultados de A0430C75AB5813288CE798F92ABAAEDD74792A52D10CC1DDAF9C0DC7A6AA3DB6
+
+Nombre de la aplicación: Bakkal
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 4: Resultados de 46FDB52FCFB8F3FF3BA692CB4CEF749FCFDBB66DA081E751DAC37F86BE63AC60
+
+Nombre de la aplicación: First Alliance
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 5: Resultados de 0BFEF4F26D522CC6A84D3D0CAC91536AFE112B75E96ABED0F809578085FF973B
+
+Nombre de la aplicación: SC제일은행
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 6: Resultados de 428F4FD2AF76232BAAB3E6949FD16C4DCE15D281A0498C9E6F38CA09F5C03448
+
+Nombre de la aplicación: Parking School
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 7: Resultados de 62965B1DD8BA09DBC5A2BF722854A104A13434EEF958198ACF0FE074384E8738
+
+Nombre de la aplicación: Kaspersky Safe Kids
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://redirect.kaspersky.com/newhardwareid
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 8: Resultados de 28E4B05996FC956E454964F52FB4FC0506DC0571E64B07B261875AE5FD71E830
+
+Nombre de la aplicación: Hingo Jungle Adventures 2
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 9: Resultados de F3FA29C18CDCD35DFD956A57C213F5011FDBC76A4D1BDEC078274EF44B2E6243
+
+Nombre de la aplicación: 1746 Rio
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 10: Resultados de 5A192D4172A88492356D778534C0FA36F0A807822D46E8E6A6038D7F15B2C688
+
+Nombre de la aplicación: 딜러라운지
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 11: Resultados de 44D78A8EBFE63F1C0247D8D31EF494236205C01604A86E60972A154CAFDD8AF2
+
+Nombre de la aplicación: Christina Aguilera Best Famous Music
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 12: Resultados de E5A16C06C32237C01B21DF253B30D6813EB845292DA82EE48D291290DFE8B928
+
+Nombre de la aplicación: Adeya
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 13: Resultados de BA9871BAAAAA7A68E4A5241793FFCB3C339026FA77FA534A5367522D9507DB94
+
+Nombre de la aplicación: PIGGY ICESCREAM
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 14: Resultados de DBA32F093F92E470EA9CF89754B8F44885B959C099A4BDA581631B593DB56357
+
+Nombre de la aplicación: Perpetual Wellbeing
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 15: Resultados de 03839C7027C0111D754D6B5F56FE803C7C51EFEC5ACDFB3ABE6B12F0BE6EE308
+
+Nombre de la aplicación: IP Cam Viewer Basic
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 16: Resultados de 0F5582983C5BFCD6559AEE5DBA42823B15283F6093764EFDD9BF40E55BB18F3A
+
+Nombre de la aplicación: KOMPAN
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 17: Resultados de 1BD45073380A72C53D08597896830CC1E85958D298BAD574B51037375D82676E
+
+Nombre de la aplicación: MuEmpire
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 18: Resultados de 8CD12485C5FBAC9C06824AB577267C039C2FBA98E4B3BA03D815592B0727943A
+
+Nombre de la aplicación: Rampage Runner
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 19: Resultados de 007B05C50774FB8874EEBD1469DDF116EA9B496E5BE4E1E44A40C5AD6D6BE295
+
+Nombre de la aplicación: Baby Pony Caring
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 20: Resultados de 9755E4571B56CD67F3F383DDB14226CE22C508505484702557C3281A03B3CFFE
+
+Nombre de la aplicación: Free Royal Pass ® : Giveaway and UC Every Season - Pro
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 21: Resultados de FCD980A96D812B681A9803EA04FD023D9B29C87B53811FE5CF5A8D1D1E04EA93
+
+Nombre de la aplicación: 全球学术快报
+------------------------------------
+Metodo 1: TrustManager
+Certificados encontrados: 
+     cajcloud.cer
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 22: Resultados de 7C9E078D5E26BF33EE71761CDDE28F6B67080CF0D8F22217E0E8B9813AB6A468
+
+Nombre de la aplicación: SoulReader
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 23: Resultados de 576A5635B8B7D55C7033D477923971DC69D66927A0B4DCDA16C770BC131F74DA
+
+Nombre de la aplicación: CBK
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 24: Resultados de E88D75A3A8604AEE1D6CC07D0240F799C5BDA8A683EF39AE03AB407841124282
+
+Nombre de la aplicación: Slotomania
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 25: Resultados de 1003F6C53071E7D7A2A289C5C1B999CB43133BE65905F8D422D605BC3704CCF0
+
+Nombre de la aplicación: Dynamic Asia
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://184.82.135.71/download.flv
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 26: Resultados de 812103455405CA2C828CCC9CD939DCB792EC5EE42019696083D8DFE11739ACB4
+
+Nombre de la aplicación: Cleaner
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     127.0.0.1
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 27: Resultados de 89D441A1516EEAE043A1C7FDD2A45D95D6FA99B19FD8E6E2288459992153C54F
+
+Nombre de la aplicación: Bottle Spin Dark Edition
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 28: Resultados de 7E37FC81F7ACA76F95CF0631EE35EACC33AC0BF997D1A96791B5072642102439
+
+Nombre de la aplicación: Taksi1
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 29: Resultados de 2E41B019B6955B6D9C7D99DB5AFAF3D1E6073AEFFC3D310B3B9CEDD921041FFF
+
+Nombre de la aplicación: Radio Perfecto
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 30: Resultados de 7CC30C660E70C3F0673B187EF23BBF158843CFF395636AAB19A8D653E6DD0D77
+
+Nombre de la aplicación: Zombies Destruction Battle
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 31: Resultados de 43401707B4C3BB11B05669CAA92540BA4A1718EA3554156EE8B16E1570159A54
+
+Nombre de la aplicación: VuSitu
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 32: Resultados de E44EF6265A34B5767F8E019B3650191F861DCE6F63B3D0B88C0098128095DC9C
+
+Nombre de la aplicación: Tanasuh TV
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     live.net.sa
+        
+     46.4.116.44
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 33: Resultados de 117B317BA73ECA0E3D10EA20F4A78E4266C6A4B33C4E137F0EF93588CC3E955E
+
+Nombre de la aplicación: KBC_MATH_QUIZ
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 34: Resultados de 2BF79FB35BBCA7E0B5BA2B37F4D8CF21BF8C540BA6A91B95E6B58F934F6E705D
+
+Nombre de la aplicación: Backgammon
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 35: Resultados de 76968B73EEA79A5050E5BBFBE4F63FA281A1AEF2FF21A9ADA23078241AE601A1
+
+Nombre de la aplicación: IP Cam Viewer Basic
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 36: Resultados de 6C17728604813FF4657BC8EAC3949A03202F9B2C91FEB60A9CA19F16614D3086
+
+Nombre de la aplicación: BrooklynTab
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 37: Resultados de 4E34B6298ADBD36F9775587314FEB3D1D77F2A9ACBCC6149016540473FFA5834
+
+Nombre de la aplicación: Xray Rift Mod Minecraft
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 38: Resultados de C8249BE04954248A59A5E875011F33FD3186D299FC8B44D50630EE41FCD818F5
+
+Nombre de la aplicación: Voyage
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 39: Resultados de 39BA03D82C1FF9F97E69A13FDEE6B36B37F218509A548AF0F97BC058DA2FB452
+
+Nombre de la aplicación: Crow Sounds
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 40: Resultados de 8A59851708494CF8A3C5ACF7C79190EE491C8D113A950BC0B17BAD7171C89AE3
+
+Nombre de la aplicación: Clicks
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 41: Resultados de 118CEFC72FD78EDD783146CFADD7AFFFD51D368FE265A3C731EBD2C974FCB4F5
+
+Nombre de la aplicación: Lucky Runner
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 42: Resultados de AF3CA5F6988CB82C8EE595BB0431909F67752D5AEEB417B3356F65DC73A56A7F
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 43: Resultados de B1C177013F7977251A08CBB20ECAA7A4E8B5A3EB46E8710870ACB153B19E7E47
+
+Nombre de la aplicación: Flip Cubes
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 44: Resultados de 5B47018AEE87923F12D0576CAB0D0C8E93EF837EC5202F7BD70C3D6D483269DA
+
+Nombre de la aplicación: Evolène
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 45: Resultados de 7849B5F1705E652305CC0F3F80A7EA031EB53EB8F84B982BE28AE7420CC7F50A
+
+Nombre de la aplicación: Louie Voice Control
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     nio-reader.firebaseapp.com
+        
+     docs.google.com
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 46: Resultados de EA73838FCAADE3EC31E2F604A2BD0B114B75493F2F93F8393099EB69771A546B
+
+Nombre de la aplicación: Squadron II
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 47: Resultados de 8FB618CFCCF86AD7E615519928667827858D97285E32D1F716434B68E87CF7C4
+
+Nombre de la aplicación: Polskie Gazety
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 48: Resultados de AE6DD741AF0E262B0C8935AA8B4B50BE153378CAB01B30583A8CDF284C5069A1
+
+Nombre de la aplicación: Personal Protective App - PPA
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 49: Resultados de CB5DB5C896331E0FD09169F91E85145CB046DFF9C7D50745E2DC3BDFDBD70E45
+
+Nombre de la aplicación: LAN drive
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 50: Resultados de 4884D10D3E4176C84A7519D16EFA7CEA6B23CD93240310CA1727D0C63CEE9634
+
+Nombre de la aplicación: Merchant Tracker
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 51: Resultados de 36C11B1D55E8FD513C38B01E8582F1EC0D7DDFD0ADED763CFA87EEBA82A0F69B
+
+Nombre de la aplicación: Anti Mosquito
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 52: Resultados de 1FEC836CA472CD0E61A02F9DDEDAC919FA43A33FB3E933A4F4734C2760A3C92D
+
+Nombre de la aplicación: Kanji N5 Test
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 53: Resultados de 10D96957BE49A8FFC63D2D5A3DB2D441B4E0FF53E67895A15AEE3482E9F598D2
+
+Nombre de la aplicación: 促销广告配音
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 54: Resultados de AA89369F417FED89F86168542EE59F2FA3982C91B168B2DA5B777348700C8CF1
+
+Nombre de la aplicación: Ajira LEO Portal
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 55: Resultados de 60B14E0DF8D24E4257A9B9458647F887E68150C5A07638192BE0F4364CE586A3
+
+Nombre de la aplicación: ProofSafe
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 56: Resultados de F11C63B1B9BA509F1CE0805ED31CB8E3BC54DC7FF7BC86B8ED76462E315D68FF
+
+Nombre de la aplicación: Barclays Uganda
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 57: Resultados de C7B37F1ECDB68D1C4BF95B1BD23D448F08A08596411BF25BFA78F9C9870C5639
+
+Nombre de la aplicación: com.nth.swisspost
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 58: Resultados de 7D9D97EE11E0187D6004E755295C3FA15FE48C5DA04624D945CEB4C7B5FC35CD
+
+Nombre de la aplicación: Crazy Numbers
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 59: Resultados de 52FBDAFECAC352920551116CCDD663439551C850780B653FCEC352DFED617B78
+
+Nombre de la aplicación: Symbiose
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 60: Resultados de 53DE8939886BE684AAE7D1CA9E4F9A0A9FDE8637EBC93E28454C54B3275306E4
+
+Nombre de la aplicación: Cute Brick
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 61: Resultados de 9EF132B79FA5641B8E2B96934BAB425A4712A97DAFAD4F43E3A7786A9970DFCD
+
+Nombre de la aplicación: Alsalam Mobile
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     secure.example.com
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 62: Resultados de D87590F3E35C4078DAEF44CC35DB7F2126D9829DD471462B96880B4C17FC9808
+
+Nombre de la aplicación: T.O.P Offline Music - Kpop
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 63: Resultados de C962B77BB54ACD5C96DA93FE97DF83395BFEF0BDFC60F552DC0E47E383A269DC
+
+Nombre de la aplicación: Dinedoo POS
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 64: Resultados de D6DD3F61AE51515FD061B4CB46D404BCCD25F19EB0451C2A5C6D61ACF15C8FB6
+
+Nombre de la aplicación: 偶像星願
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 65: Resultados de 9165602099D9CC22C2E43C3075FA884604B414BE8E5C0007E1AE556AA61DFD28
+
+Nombre de la aplicación: Rapi10
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 66: Resultados de 97F1BE2DE5D6F074A4AEA9B36D84BB11D1F25E0B16AC6483DE51006221D0E61E
+
+Nombre de la aplicación: Crimson Warden
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 67: Resultados de 4EE6E261009ED6194DF8B9DCF148FDB2C055E91FF8EEBB60E27BD97253031666
+
+Nombre de la aplicación: 監控警報器
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 68: Resultados de 4A1B77820A4DD6F6E742FC91D26073856EA94F010FB08FF3D8E8C60066025BA3
+
+Nombre de la aplicación: Pro Life app
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 69: Resultados de C146D154C2C13A7656DF8022C0516DD2E2F43F7887F702791DB5C79A9FE56121
+
+Nombre de la aplicación: 平安口袋银行
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 70: Resultados de 0B5A465C062896877284B8E819D9E64D8994F7BC99EE391E23943EC3F6CDCFC2
+
+Nombre de la aplicación: BusInfo Abbeville
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 71: Resultados de 4EC4002B55370F3ECF588AE60B8C75316E4FCDA6E9C8EFF01FF0A72FB1357A8C
+
+Nombre de la aplicación: Logo PixelArt
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 72: Resultados de 6DA33BE01300F0693F6ADC0E4283CC227065AAB525374CA94F38CC2F0DD49BB9
+
+Nombre de la aplicación: Zoe Laverne Video Call
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 73: Resultados de E4F2A682DC0DB9411B5173BBABEF308B2AE1E884554B6E972B93075ADFB61333
+
+Nombre de la aplicación: Be Original
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 74: Resultados de 5ABBB28ED81987ADCE5ACAED47D4E1BCF114C845FEE432546985A5CBA27DDFB6
+
+Nombre de la aplicación: 501 Free New Escape Games
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 75: Resultados de 805529CC61591658CE89B6F310C20220EDCBFD32F5DF8654C798B4A740EBC144
+
+Nombre de la aplicación: VINCOM FM
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 76: Resultados de EDE330D2EE081C93E4F4C0CDF46AEB2AFEE354F82BD8198D9477D8682EDCA92E
+
+Nombre de la aplicación: myCYC
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 77: Resultados de 94D74A392806E410EE74D111CDE73A0C7FC296720FAC0FC3019DD42B41105BFB
+
+Nombre de la aplicación: World Class Casino
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 78: Resultados de B0DBA1A1F286DD6D7447125C492A6A62FC976136513DC5A65FEAF7BC8EF37C6C
+
+Nombre de la aplicación: Card Workout
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 79: Resultados de 2FAF962F38B9E64818B1155F0ADCDB3C7230A44BBAE7C6EFFD7FD3F82A721DF5
+
+Nombre de la aplicación: Wingman
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 80: Resultados de A322DDA64AE58799EC6317E8F00DCBDC5D66ECED31F45FC26DDAB05B9CD7C0C5
+
+Nombre de la aplicación: IHearYou
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 81: Resultados de 9886652DB8817AC8346089A46CD9499ABAA66902A616B30253C423C8F4FE16D8
+
+Nombre de la aplicación: Real Estate
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 82: Resultados de 1AAAAC858351826046290683CEB759102361E1407628686B85202469745EC57C
+
+Nombre de la aplicación: RadioVegas.Rocks
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://184.82.135.71/download.flv
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 83: Resultados de 8F85D0EC8C5F7F41FC08D86E69CB06F1C915AA567841420370FCA41CF05F5DA7
+
+Nombre de la aplicación: 大象州
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 84: Resultados de 7C3A0118E94B626CC3AF27DA8BD23C06DEFD7E38AF20A667B5714AB1D33233D8
+
+Nombre de la aplicación: BandMate FREE
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 85: Resultados de 4DABD1C3A690196497E9105B2263086214DA1128B0A5FE1C8C7B6181363C208C
+
+Nombre de la aplicación: Kung Fu Attack
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     127.0.0.1
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 86: Resultados de 315EA85A42BF1BF24C8D37A8F6D0926C4966EB1B586A78305617553B5F5E9CE8
+
+Nombre de la aplicación: Kunjee
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 87: Resultados de 7DB287E1398C7AC677055C2D20E86A923635530FBD16911436D0974E40F619E6
+
+Nombre de la aplicación: Cheap Flights Comoros FlightsIQ
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 88: Resultados de D273690D8D14F96DC8D3FDF0FCBEA2DC822B813BDCBCAD7D38792ABE8C043983
+
+Nombre de la aplicación: Order Casper
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 89: Resultados de 3452A07491F14E2342D053724B98F3A7E373F1C24F67FF1B572B2EDDBD6A0C3C
+
+Nombre de la aplicación: stele Abacus
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 90: Resultados de FE3466B9655F62EAB64FD78B0C7DE55A809BE3F2AEFE675F4822B9883A1BCA22
+
+Nombre de la aplicación: Shuffleboard 3D
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 91: Resultados de 2EBC6617CACF55D3CA79556850CE7C7A45EAAE5D95812E7EC10BAC18DC48F1AA
+
+Nombre de la aplicación: القنفذة ماركت
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 92: Resultados de 3F0006E6BB276EA8E5E490800EC28D8AAE20B84255C21611620DEEBEE10794E1
+
+Nombre de la aplicación: 简单美房
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 93: Resultados de 558B79EE1CA57B38F100F998BD656AB0388B91566434255709E49226E3A923CA
+
+Nombre de la aplicación: Q-Wallet
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 94: Resultados de A30C2298CC98B96AE3EE8B463F4395B785D5C096825CBD656CFDE20BEA429A37
+
+Nombre de la aplicación: 快对作业
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 95: Resultados de 70D29921256F58DBE52027A6E9DC0F97EC7B9E2206FFF37674FC9BB846BD96F7
+
+Nombre de la aplicación: Quiz Cars Logos HD
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 96: Resultados de 4AD02F86797E4E6165A21F02D5CCCA02B74D606116865D6807E69651080560AE
+
+Nombre de la aplicación: DH Quick Delivery
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://184.82.135.71/download.flv
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 97: Resultados de 0AAAF90E7F13167B2A574863F444CB49955CD92C34F18D369FA78AFAABF35299
+
+Nombre de la aplicación: Lebanon CPC
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 98: Resultados de F6082B31F5AC57F7608F4DD0D43053B3393D710C4D7072A44AC7C384E0725BFE
+
+Nombre de la aplicación: Candy - Sugar Sweet
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 99: Resultados de 225FBB2D727FE3FAF3A191406FBC27B326F75E7AB6C5A89E5A75AF8FF4543E16
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 100: Resultados de 57559C978E63BE9E555D09609B53635CE42B3EAEFA5D2EB90602576AEBC8B96C
+
+Nombre de la aplicación: Castbox
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 101: Resultados de 6D24AE397B9870FEBF099A9504A42B24090380A340A5AA15357CEB0B6D864022
+
+Nombre de la aplicación: Diacritical marks
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 102: Resultados de 5483F82E5CEA491FB358720684CFD1AADD0A59F5941C614364436C13C1DC22F5
+
+Nombre de la aplicación: Red Rose Launcher
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://tealand.cmcm.com/api/v1/soil/uuid
+     http://dump.cb.ksmobile.com/performanceReport.php
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 103: Resultados de 23CC056CB55D54277C5DBF7E2E1D3C9178E52F618F366C11F021E20004F36784
+
+Nombre de la aplicación: Resep Puding
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 104: Resultados de 6C312A3E8109BA12763A4B5CFF80D59572A0462126113A9251399A8449E0290B
+
+Nombre de la aplicación: Fruits King-Superb Slash
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 105: Resultados de B739399CA126EEE67CAB6539FDAD190F69FF28ED589D08483836CF61868187C6
+
+Nombre de la aplicación: 埋堆堆
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 106: Resultados de 5B5664E2D20B146C36B91B42A23B37E56D3025E46E46BD33F03E2A98294A298D
+
+Nombre de la aplicación: dolls surprise
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 107: Resultados de BEBB770F55FBBC9CD436725FC950869678A6A5F38376F533C9B54F722ED5555C
+
+Nombre de la aplicación: Document Viewer
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 108: Resultados de 49BBE91D1F1B372E9FF685A74F0CF57A14FEC09201E5E0A26EC9D7CB840B1E35
+
+Nombre de la aplicación: Fire Truck Best Rescue Game
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 109: Resultados de B0618FF548F57BCC5ECEC00102F7776B979C32DEECF99F506A5B5BEC5BA22A11
+
+Nombre de la aplicación: Personal Mobile Banking
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 110: Resultados de B692A6237625287ED1B5CD9E923482D5B4094A5D37239456FA5DA04922F0989F
+
+Nombre de la aplicación: Bryant
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://184.82.135.71/download.flv
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 111: Resultados de 8DA97E4087F813BF60298F82439A960DD3BD7533E267615105F70F9F4AA72CD0
+
+Nombre de la aplicación: Héroes del Planeta
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 112: Resultados de AF070A0132E047934CB4865E525094C6AA801053C127FF9B82FA108916D06FEC
+
+Nombre de la aplicación: ARASEAN
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 113: Resultados de 4297C406B75DE43FD588358DB94E4D202A6994C1BD2DB62E8C0495E1B3E0DE26
+
+Nombre de la aplicación: Taganrog
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 114: Resultados de D300B58E97A488AF8093502A9AE63441E0EAB599F92C2226B79DB992C10CFAEA
+
+Nombre de la aplicación: 上门康复
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://loc.map.baidu.com/cfgs/indoorloc/indoorroadnet
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 115: Resultados de 444D49B31418A8AC392EF121B8EC137028CF656D45F9819EEB5332A62703E11A
+
+Nombre de la aplicación: Hook
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 116: Resultados de 5F3D9CC85266F76C652F577A3B9A6738974123FEB8BB095E93BBB83AF6EA75AF
+
+Nombre de la aplicación: 大姨妈记录
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 117: Resultados de A19DA5A4CEA364805E2FEE22DD9DF65DD9CBF83444028A3EC80D70DA7CB1B85B
+
+Nombre de la aplicación: 沃钱包
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 118: Resultados de 9DA218D12DA33451A0C318FBB59D4642EE53FAE8C09F4DD59BB13C4205CD03CA
+
+Nombre de la aplicación: Water Surfing Adventure 3D Simulator
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 119: Resultados de A5EB267542B796ADACD5DB881B7396C6FF7760EF8485D6F4036E9E911B663E47
+
+Nombre de la aplicación: SHAREit
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://www.bing.com
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 120: Resultados de B96E8BE32E7E9BDCDA06D2230A050EBDF9C382A173321E3BAE8AD02D2F67154D
+
+Nombre de la aplicación: Man Hairstyle Photo Editor
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 121: Resultados de 5E78E33A9E45D73AFCC64079CA16A6AA9E8B283EE39FC8D26826F5D72FBD946C
+
+Nombre de la aplicación: Fantastic Face
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 122: Resultados de 4402B4F7C5B08494606F73F4F3E6BFA5245B37E40E6B09D820260C562E20D863
+
+Nombre de la aplicación: 湖南IPTV
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 123: Resultados de 537D5CB004763AF137067F0EA3A2FA3D43C0739A2CDE114CBFD9CE6DC36CFD93
+
+Nombre de la aplicación: Who am I?
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 124: Resultados de 0B4BA05FF4CBDC727111D51FD1161E030F94D27DD5CEC094454E6AA956BA6232
+
+Nombre de la aplicación: Discovergy
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 125: Resultados de E63B0B5BFD48BD073B80AF3740ABB116EF77B6C641C3C984B24B7A341969EB42
+
+Nombre de la aplicación: (MH)KGI
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 126: Resultados de 6DF12C384598649781916EF9443BAB49F36313B027FDF551F3F690E33C04A2F5
+
+Nombre de la aplicación: Mujeres a los pies de Jesús
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 127: Resultados de 93777F55E16663A45FD8C0528DB5BD58EE1D26355AE540BFEFD44D055598F8EF
+
+Nombre de la aplicación: Stickman Jailbreak 7
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 128: Resultados de A42C551D5697586EF5C6A17993D055FE5408FCF52624972282C70794B4E6C83B
+
+Nombre de la aplicación: Potaty 3D Classic
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 129: Resultados de 3BC818E43E86973A0E874999670A6D678632BBA44C2A1316FCBBDF83298824C0
+
+Nombre de la aplicación: Gwen Stefani Ultra Best Music
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 130: Resultados de CB342D420E5235C1D73AA121BA0E662D82FC6FC18DABFA9B211AEC4B48F0BAE6
+
+Nombre de la aplicación: Roem
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 131: Resultados de E942F5B27E721D212F698B584AA596BABF1CAB78AA30BE77F1DE37F6547636E5
+
+Nombre de la aplicación: Rhino Hunter
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 132: Resultados de 434936BD0F951DE3B58DDAD4C77E395B3AEC1D09FAF44A16BA04C5025267F3F3
+
+Nombre de la aplicación: Wild Animal Transporter Truck Simulator Games 2018
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 133: Resultados de 9F63ACCE429C2D9B5990AE146902E0FAAB7E1C0002C3992B7E0E5D09C53F3A7B
+
+Nombre de la aplicación: GT World Challenge America
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 134: Resultados de 3F4D975A86C3513FFC37034105C9D95494D9BA5423F506A4DF25F314CB9AADA3
+
+Nombre de la aplicación: Spleen
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 135: Resultados de 2998CF49BB3737CB2476BD31434A4A1B9F2D761E7955806B28773E868839E55A
+
+Nombre de la aplicación: Project Gamma
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 136: Resultados de F7B49701D43AF8ADDDCBC1381C1B443FA2F20126D5031924981EDA39C7E0DA55
+
+Nombre de la aplicación: 智联招聘
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 137: Resultados de 9B190E5BD9DAC24ACEBAE10D475FDA74F759FC1F157CB74EF357E0A8F0492682
+
+Nombre de la aplicación: DFO MarAlert
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 138: Resultados de D3598290C4E007E04D5E89F98BDE501E4B666CDBF7B11758C635993AA21C7C5B
+
+Nombre de la aplicación: LiveCARWASH
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 139: Resultados de F8DAB14317BFBA458A57AAF5573B48532920FFDDF83B23FAAAF994EB31AA8413
+
+Nombre de la aplicación: Road To Legend
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 140: Resultados de C931A971E5D216750C06868517548F99149D30211D6DED1AA0CC4695F1E1F792
+
+Nombre de la aplicación: اخبار الجنوب العربي
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 141: Resultados de 07277E6137B5F7321C33078A5AD328B6D15B0B37AC8609E714A3FEEE31B93C35
+
+Nombre de la aplicación: Hey! Mozo
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 142: Resultados de 88A7BECDC2117AB31902E29CBA05CD20E99E918396486B1D4F12053BCE64DF20
+
+Nombre de la aplicación: Maluma - HP on Piano Tiles
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 143: Resultados de 1A9AB2537CCA231092B26D2F5013452A591ED07E9A7027644B1BA448E73DD2E3
+
+Nombre de la aplicación: DRI_di
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://184.82.135.71/download.flv
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 144: Resultados de B5F4AF438145B2C1528C3E097FCC956F51F95533C1E4B1E1A2A78E65D24E23E5
+
+Nombre de la aplicación: 山有扶苏
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 145: Resultados de 485998A64A07CC300954BE7ABD93D79A4699F76608076B11A77D3CCDBE77A4F3
+
+Nombre de la aplicación: Glitch Video Effect - GlitchCam
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 146: Resultados de BEDCC68B5B3354503498ADC5265D98E8277AB201926B68F84360C81D09811134
+
+Nombre de la aplicación: 同花顺
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://norma-external-collect.meizu.com/android/exchange/getpublickey.do
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 147: Resultados de 1A1CF7659EECF54B2DAF88F5FA0D8008771A81A882CEC447174CB747D1172CCC
+
+Nombre de la aplicación: V Launcher
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 148: Resultados de 1E77F0BA47559C0C6C004EEE43530C9915841328CF23623CFB8DB4FD130DA9CD
+
+Nombre de la aplicación: FishGarden
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 149: Resultados de F32B93AECDCA9FE6328978D596F4D21E2FA3409F3CCF15AB16CB37AE00F4673E
+
+Nombre de la aplicación: أحجيتي - لعبة معلومات عامة
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 150: Resultados de 7462A22D4289EBF688AA3EA3A4047018016C4BA8AF879389489BE84CCAE7E8C8
+
+Nombre de la aplicación: Alfeen Public School Kanjirappally
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 151: Resultados de 70D39F5EFEEF605BA164BF1171F3D1C2036D40AD246D85D5E24F6836BCEA4765
+
+Nombre de la aplicación: Evil Step Mother Nextdoor Strange House Game
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 152: Resultados de E528E567AD65FE04058ED43EFF6EB99AA44A5BEB4D6ACC127F148DE68B8FACCF
+
+Nombre de la aplicación: @string/nr
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 153: Resultados de 0670F9EC24834C22E8DC6386C762213E1D233D827E746A37E3F1877C0EDE3BCD
+
+Nombre de la aplicación: Resep bakso terbaru
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://pro.ip-api.com/csv/?key=3PjN9TMSUIC5qFL&fields=countryCode
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 154: Resultados de 688EE8DC897E9851DC100392153C191AA6F9F80D83266F795C92ABBE079A5373
+
+Nombre de la aplicación: OK Doc Scanner
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     127.0.0.1
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 155: Resultados de 15434553B3251F89EC4427742D7521B20B3140C9813800D3C7F75BCB60CB3FB0
+
+Nombre de la aplicación: blind
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 156: Resultados de D90671E714A01793A3F1E5C421034D8E33C48827CA227CB4B3D979AD78DB4F53
+
+Nombre de la aplicación: Offroad Outlaws
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 157: Resultados de AD61BB3A8601C8387ED114D347B3DC563AC29E8A55DE21B876DD8BAC3BC04C68
+
+Nombre de la aplicación: Christmas Decor ARCore
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 158: Resultados de 9973CD11247CC727D42BD7CA0C1305B3DA5DC50B0106311E337B30D26C0FF82A
+
+Nombre de la aplicación: Girls Day Offline Music - Kpop
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 159: Resultados de FB48E229E340439C8F088EBD44D9F2E100AABA1E6E9483E46018A63356F7B214
+
+Nombre de la aplicación: ultimate master ninjago
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 160: Resultados de D6695AE3741BA9FACD060E55761C0943D80B2653AF939DF88F435C055148CB13
+
+Nombre de la aplicación: +ORDEN
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 161: Resultados de 210B924EC85F3389B314A2294583950F0A48E4D173D8883D939ED25307505923
+
+Nombre de la aplicación: Rescue Animal Transporter Truck Driving
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 162: Resultados de C1A905AC5B46BAF98DAA5E9B10648E2C5AD1ADEBFB58367DC9E32CFF8227E692
+
+Nombre de la aplicación: Jetpack Simp Hero
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 163: Resultados de A721B5C9D6E712F4A2881A5865EAC50F70CEB2CA782144C9FB8B7F7B44CBBB82
+
+Nombre de la aplicación: MNC Curbside
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 164: Resultados de AFD63A4A98D33D96E7F7A3AE4DD006B5EDA43B1081802B34BF5660F9BD357F11
+
+Nombre de la aplicación: Conversione Unità di Misura
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 165: Resultados de B00E74CE70799AAB9696F3E4CAA48B5C46B12AEDED65B8700A9CFB27BA8ACDC3
+
+Nombre de la aplicación: tonestro - learn Clarinet
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 166: Resultados de 27BDD52A354470E528A76E9AC2C5BA3FFA2EAFF58CFAD2AF6D5BC52A711885CF
+
+Nombre de la aplicación: Creator Studio
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 167: Resultados de D3AAB9C4F35A5CEAF716F94F0D49E8502B875892548F36F30E1232B7BD4F9E6A
+
+Nombre de la aplicación: Engineer
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     apis.appnxt.net
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 168: Resultados de DDDD5F94A7F384A453E6433D219EC9FD7B8A2319B2AD2A020C5725B200D03E86
+
+Nombre de la aplicación: YOkur
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 169: Resultados de 378D3BF3BA72749AD57A5C76ADBE623AE9F29B7DB932152551DD298C7B30DC27
+
+Nombre de la aplicación: Meaford Waste
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 170: Resultados de 1644BDEC19AF53D1A7BC42A82D1491B506737E1BC784CA6A0E2DE07ED38BEF69
+
+Nombre de la aplicación: Talking Squirrel Frozen Forest
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 171: Resultados de 97641A28586BDFA55204B3FD0BAC645E6E2000D549F07677192C5C818DEB4F40
+
+Nombre de la aplicación: Dress Up Angel Anime Girl
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 172: Resultados de C59E925A1364AADC1F61DD5A5EBBABA1992749A875AE68EED7CABC1E7DFB97DD
+
+Nombre de la aplicación: Resep Ayam Lezat
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 173: Resultados de F86C70FBCC3264E3ECDC45C1427B346ACB1BE7079D70255551042811FADB4BCC
+
+Nombre de la aplicación: BVS
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 174: Resultados de 3A46089A3C2F1E322CAB21B1267C5621DE0D4E4B5160CEB4E1944C3766C3CB38
+
+Nombre de la aplicación: Zombie Hunter
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 175: Resultados de 9BBCB1DEEB92C53A55BB99E53ED1F4622E766DCF4FA330ADAEF6A1767395D155
+
+Nombre de la aplicación: Indi News India
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 176: Resultados de 88D2414676522F70A41DD2C5E37E66F8BD3C2F68307F76F1C1CD24C3BC6ACB6E
+
+Nombre de la aplicación: Wrestling Revolution
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://cdn.appnext.com/banner/appnext.mp4
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 177: Resultados de 0E3D1D7D1BD6398337BC907D5FD6B880221333034D360E3B02819298416DEB91
+
+Nombre de la aplicación: Virgin Australia
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 178: Resultados de 11CB0102FC8159D33CD0B313162839389EBF9DD02BE3BF83AE90E9296D6BC011
+
+Nombre de la aplicación: CompareChecker
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     example.com
+        
+     cdn.example2.com
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 179: Resultados de 86A0F0FFA7C90351A687B53E2DDD81A5B23E5CACDBACEF397E2B5EB24913B360
+
+Nombre de la aplicación: Геология и горные породы
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 180: Resultados de A6EA703D81BD8A7E01C192EEA238798900C48879DA5F1E1670D952A611C2C278
+
+Nombre de la aplicación: জ্ঞান আহরন
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 181: Resultados de F066A491A41FFB035A0472D716A0A032615E53570CF8BD430FDEB432D5D52020
+
+Nombre de la aplicación: Referendum
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 182: Resultados de 56BF34C3C2AE791A296DF45BCB32D1CE52FD88A8577D90AC63F1A04126AE43A8
+
+Nombre de la aplicación: Aralon
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 183: Resultados de 50F95D73721F203BE3904F39272F05F5DA8C8B7DF9ACF6D5383355ED52BE93CA
+
+Nombre de la aplicación: Scout
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 184: Resultados de 2F4C2D632AAF908EF70808FB2FD521438437AFD0218D6766F5F0203D6CCDD1F8
+
+Nombre de la aplicación: Brain
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 185: Resultados de 03500E4D18EAF2FBCA6FAF2605B19E63EBA6E494505568E6E5717859EC690FA5
+
+Nombre de la aplicación: Offroad Jeep Driving School 2019
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 186: Resultados de CD14ACB189B59AFE8007D1715F2D46560163C7F99B50BF107D4DE13899B8857D
+
+Nombre de la aplicación: 海马汇
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 187: Resultados de 7FA2D79A92F2B24BDB8BC084636F6FB3C40AAF74095D7E7FAE5D0B26D4991180
+
+Nombre de la aplicación: Shoptagr
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 188: Resultados de 8D6CE9CBE7EB8897247FCB9DA17D8E08A1BA7CA7AE809C4181AAAE9081F1BED4
+
+Nombre de la aplicación: BusinessCoTyPhu
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 189: Resultados de E382E7DE4ED2D9FDB011C2A9C2E63B859EE1FD169B9DA8A288CE1DDF9C4A276E
+
+Nombre de la aplicación: City of Guelph
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 190: Resultados de 8086D9EE26CD9579C100FCEA188F23BB68100A6170887330D0BE122B822B9CC3
+
+Nombre de la aplicación: PDF Reader
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 191: Resultados de AA54C4FD9D5E9C853F99D58E76C71BE818CB470E861248E39C2FFF6F1A0670DE
+
+Nombre de la aplicación: Heatable
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 192: Resultados de 118D1727B0E865615DEC08B2997902D3674E9B9E648111A840067D72CC605D5C
+
+Nombre de la aplicación: Army Battle Simulator
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 193: Resultados de FC42BC0245229375F349A71ACB0C63B35AED0B14F83A6C36081C7CFB3024E360
+
+Nombre de la aplicación: Telearabia
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 194: Resultados de 2033F5CB327A513BC82FB6450DACDBC29B4D961FD62C2BF9451BB99F14FC4CBA
+
+Nombre de la aplicación: Spanish Verb Trainer
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 195: Resultados de E968175F8D5190EE1890FB2EFF66C46CE04340661E68B3E7EBA6BEF469CA917E
+
+Nombre de la aplicación: 泸州银行
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 196: Resultados de CCE039BDD15767582F9D41982157D74D68FA967D40DB60667B27CCF53AD8AF6A
+
+Nombre de la aplicación: SOMADINA
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 197: Resultados de 9A34596B005523004E42F2E97C63547544A2D6796D4FB2D70833208749E89F6C
+
+Nombre de la aplicación: Focus On PublicHealth
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 198: Resultados de 4928C0D66CE211B742DF1FE9630247B78C1FC2B70D048EA94C034B4AFA1F3479
+
+Nombre de la aplicación: CGP
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 199: Resultados de 973308F86D6F17283F4E9F86CB18DF13649359688644644DBEE789CA17F34BAC
+
+Nombre de la aplicación: HYDROINFO
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 200: Resultados de 16D63D6589717342CC8F2D660930A96FD21A47C7B0024C88D7172DB859F95628
+
+Nombre de la aplicación: DFO NCR Alert
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 201: Resultados de A0F783A0C8CC7181C40EEF5E3A163ABB8891278E9984D1B50192B102BE1FC405
+
+Nombre de la aplicación: SupporTalk
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 202: Resultados de E9C12FCE450E4EEE927E986D8503376FFAEC8A8417A805BCCFF51F59ADB1207B
+
+Nombre de la aplicación: Vedaa Public School
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 203: Resultados de 002D254F738DA9F32C7F6CA727F60D8B7CB12C0721D43419DC6C0EF588929819
+
+Nombre de la aplicación: US Army Men Strike Empire 2018
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 204: Resultados de CE5E6141EE64D0EA1D434B32EF40F866B730CEA144310DA33D0E6F96290D536C
+
+Nombre de la aplicación: 渠易宝业务助手
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 205: Resultados de 041CBA8F874DEC4F673E1BE563D9E8AE704EDD8003FA72CF900745C32BFDF7C5
+
+Nombre de la aplicación: Stickman vs Mobster: Vegas Crime
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 206: Resultados de B7171083DCAC97A19BB23300F97F9E1629BB607F631B37DB44B6DCEB959BC677
+
+Nombre de la aplicación: Sportive Me
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 207: Resultados de 4F75009DB1F90EBDFA76639C80E4E5FDECDD563E9C8652230DAF30E92D4ECD43
+
+Nombre de la aplicación: دردشات بنات و شباب
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     apis.appnxt.net
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 208: Resultados de A7458077D482755A124F641A61F13356F99037A06F27145966AA1826A5024283
+
+Nombre de la aplicación: Singtel Dash
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 209: Resultados de B7D69AD159694FDD833ED3D6C94E21F928EFDC01A34FC50A1A3A701FBADBBD6D
+
+Nombre de la aplicación: Super Kong Run
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 210: Resultados de 59D767F7E957CD72886EB50408468763C8AF919C52A31E4121BC012CBFEFE1AB
+
+Nombre de la aplicación: KSB FlowManager
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 211: Resultados de 18BD382F9C05310A9B6FEA0A696DC5E4A6D36808EB4FBA25CCB18C9CCD387657
+
+Nombre de la aplicación: جمعة مباركة
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 212: Resultados de F723DB4C799BA7EDDA0668BC09F33C3229BEEF87D4E014A48D60259A361A0074
+
+Nombre de la aplicación: Shortcuts
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 213: Resultados de DE906C302348E3499E54F483D01C81C32E15741168389CCE998B04AFA777A4F6
+
+Nombre de la aplicación: Marathon\'s World
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 214: Resultados de 6D290656992AADBA2D846D21A40A000460E4FD48AB2F62AC9F335044ACE1017A
+
+Nombre de la aplicación: Hinduism
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 215: Resultados de 6373E0C6247D3790A17D6D4197DA50E15949423CAFEB3EEC98115DCC8BEC1A99
+
+Nombre de la aplicación: HEIR OF LIGHT
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 216: Resultados de EFF5B5689EAF1D3A29D0EAB0E84B39D89EBDBCB34B86FCAE175C73349D7CCBD4
+
+Nombre de la aplicación: Dino Hunter Shooter
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 217: Resultados de A9B5AF643C4EA71C6ACCA290A7F331DFEF47E8846A3ED431EA117FD11472D547
+
+Nombre de la aplicación: BlackPink
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 218: Resultados de 8A68433392BE1990701AE1570336703117703AC7AC9DA0C853BAB83B265223C9
+
+Nombre de la aplicación: Strikke beregner
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 219: Resultados de 4338B7D1ED5403E44E75D8974F1434B800D37C8CFA02DE081B0241E76A6FAF0A
+
+Nombre de la aplicación: Red Ball: Tap the Circle
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 220: Resultados de 179229CB48C6C73ECE8C2DFE9E1EF18D0F8DB9F5A8A9B3342534A9544B242A5F
+
+Nombre de la aplicación: Credicard Use
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 221: Resultados de 473536F89E635E69D57878BA16B46EFBBA960DA072A9FE9C389448D4E8C2D23C
+
+Nombre de la aplicación: أقوال وحكم ألجوكر
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 222: Resultados de 287523EF694EEFAA656B155495815B8E00F9987996AE606D250FFB543B6A23A9
+
+Nombre de la aplicación: Mobile Legends: Bang Bang
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 223: Resultados de 70F4A8C9095B330A7F3904B92B17676D2FC2203AA4FC8657AAE0C31594A63951
+
+Nombre de la aplicación: Adaplan
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 224: Resultados de 9A8A2D299D85EF44952C43443F650A20B8B15DFAD34F28FCD601732159425F10
+
+Nombre de la aplicación: Canal9
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 225: Resultados de 9377B7FD19DB5456DC73A4C52E1C222644205E78B165EDB9F19B0465734E10A5
+
+Nombre de la aplicación: Woodlands
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 226: Resultados de 26A3D83F2068A80C70E47E7ACA7615B19C2AB28776F06E55553E2574B23A8093
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 227: Resultados de 4ECD2AA0CB05249E0F9EE546AACCC366A4731415FECA1268271B132ECC644B1C
+
+Nombre de la aplicación: 运满满司机
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 228: Resultados de 25B3D963BD134D014FE0141E7929C023B8B2A402C6E9159153E02312CC090996
+
+Nombre de la aplicación: POSH
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     http://184.82.135.71/download.flv
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 229: Resultados de 708520459D1EE3B4890F99F59292E197AEEB8F40FDFB48E9067716157F1CE491
+
+Nombre de la aplicación: Ready Frankfort
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 230: Resultados de 77E83004B6A4C3921C6F3EBBA0FE14975F6FA5FAE770E013A706694B86741467
+
+Nombre de la aplicación: Türkçe Telegram
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://cdn.appnext.com/banner/appnext.mp4
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo sin emparejar con AndroidManifest.xml
+Conexion con las siguientes URLs en NSC:
+     apis.appnxt.net
+        
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 231: Resultados de D9401C30763B012D0FB379C555DDAFCC3044A88CF8646244E4545CC45C785E4E
+
+Nombre de la aplicación: Real Shooting Counter Terrorists
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 232: Resultados de 6ABD3301C1D0A8813C1893A257D0881C1C2AD2709A545C024989FDF3910BA332
+
+Nombre de la aplicación: splice light
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 233: Resultados de FE3D79578FDAEC5D175A5775036902A558A252CB838886909204E9E08787349A
+
+Nombre de la aplicación: tiNi
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 234: Resultados de 8628F0FF4D4F2333EE66991B095BA16137FD1687278FB14AE830C62E91FB0E04
+
+Nombre de la aplicación: Cooking Game - Baking Cupcakes
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 235: Resultados de D9C7DF4119AE71ABBFF9B55F916CBF6A34C10B737BD1EDAD81B2484989E24EAF
+
+Nombre de la aplicación: Patente de Valores S.A.
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 236: Resultados de 23F1576F94F31463615B8FA01BB6C5A30826E768A48FAA79DEF53168DB984C22
+
+Nombre de la aplicación: LGB Pay
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 237: Resultados de 8D3694D5D59B43897D4865CB38E54CFB00D8236E769EF0212343D8DB8BA3B6B8
+
+Nombre de la aplicación: US Police Robot Transform Truck
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 238: Resultados de D6588A73F68D5EB4E4845ABB3BF8F4AA433C8A53124D4F277A0361B38D4244FF
+
+Nombre de la aplicación: QR Generator
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 239: Resultados de 7BDE9E810FDFE6FEDA8C2BCA710E32C239F824E7168B97D8BDE6EC36F66D433B
+
+Nombre de la aplicación: Truck Driving Uphill - Loader and Dump
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 240: Resultados de 8E33B29B9FC85056BB298E4575148A3802742BAD3838995651B721C466C93573
+
+Nombre de la aplicación: Clown Bubble Shooter
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
+------------------------------------
+
+
+Apk 241: Resultados de E14ACFB427E7824481A1A18D2B39A8E1869EDE956B86A9C2034E454A2DA6C5C1
+
+Nombre de la aplicación: Skins for Minecraft
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Conexion con las siguientes URLs: 
+     https://onesignal.com/api/v1/notifications
+     https://api.ocr.space/parse/image
+     https://account.kodular.io/api/startapp
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+     -Archivo networkSecurityConfig.xml presente en la aplicacion
+     -Archivo emparejado con AndroidManifest.xml
+Ninguna conexion con URLs en NSC
+Ningun SHA encontrado en NSC
+------------------------------------
+
+
+Apk 242: Resultados de 03A117DD85859FD6A996826BC928BE03074E894E65B6F6062FDC239D9B0F0C0E
+
+Nombre de la aplicación: Free Taxi Sims 2017
+------------------------------------
+Metodo 1: TrustManager
+No se ha encontrado ningun certificado
+Ninguna conexion con URLs
+TrustManager No implementado
+------------------------------------
+Metodo 2: OkHttp
+Okhtpp certificatePinner: Sin implementar
+-------------------------------------------------
+Metodo 3: Network Security Config
+Pinning mediante Network Security Configuration: No implementado
+Archivo networkSecurityConfig.xml no encontrado
